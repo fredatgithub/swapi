@@ -4,7 +4,6 @@ namespace StarWars.Models
 {
   public class Film
   {
-
     public int Id { get; set; }
     public DateTime Created { get; set; }
     public DateTime Edited { get; set; }
