@@ -5,7 +5,8 @@ Source code for [swapi.dev](https://swapi.dev)
 
 
 ## What happened to swapi.co? 
-Unfortunately swapi.co is not maintained anymore. 
+Unfortunately swapi.co is not maintained anymore but I have created a new repo to backup all previous data, see 
+https://github.com/fredatgithub/StarWarsAPI
 
 ## What is swapi.dev? 
 An "unofficial" branch of "swapi", supported by @juriy
