@@ -103,6 +103,16 @@
   <ItemGroup>
     <Folder Include="DAL\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQL Script files\0-Create StarWars database.sql" />
+    <Content Include="SQL Script files\Create Films table.sql" />
+    <Content Include="SQL Script files\Create People table.sql" />
+    <Content Include="SQL Script files\Create Planets table.sql" />
+    <Content Include="SQL Script files\Create Species table.sql" />
+    <Content Include="SQL Script files\Create Starships table.sql" />
+    <Content Include="SQL Script files\Create Transports table.sql" />
+    <Content Include="SQL Script files\Create Vehicles table.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
